@@ -16,8 +16,8 @@
 ## How To Run The Server:
 **In order to run the server, it is required to:**
 - Have Node, Git, and a Terminal installed in the computer
-    - Installation link for Node (Windows, Linux and Others): [Download NodeJS]{https://nodejs.org/en/download}
-    - Installation link for Git (Windows, Linux and Others): [Download Git]{https://git-scm.com/}
+    - Installation link for Node (Windows, Linux and Others): [Download NodeJS](https://nodejs.org/en/download)
+    - Installation link for Git (Windows, Linux and Others): [Download Git](https://git-scm.com/)
 - Once you have all of those requirements, you need to clone this repository into your computer, using the terminal, by typing: *git clone https://github.com/BelaBelial/MyServerNumber1.git*
 - Now that you have the repo in your PC, remain on the terminal, move to the directory of it, and type: *node server.js*
 - You should see in the terminal, that the chosen port is running. 
