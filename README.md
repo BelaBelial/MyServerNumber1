@@ -30,3 +30,6 @@
     - fs: is the module responsible for file management, its actual name is File System
     - http: is the node module that provides many functions such as, create HTTP servers and make requests
 - IDE: Neovim Version 11.4
+
+## Content:
+- Since it's a server more about the real basic, the lowest level, you will find only an HTML page at localhost:/3000 that blank and written some basic thumbnail. 
